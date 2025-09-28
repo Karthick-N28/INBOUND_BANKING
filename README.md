@@ -24,9 +24,9 @@ Schema definitions are as follows:
 
  Demo Videos
  
- • Balance Inquiry → [YouTube Link]
- • Card Blocking → [YouTube Link]
- • Escalation → [YouTube Link]
+ - Balance Inquiry → [YouTube Link]
+ - Card Blocking → [YouTube Link]
+ - Escalation → [YouTube Link]
 
  Setup Instructions
  
@@ -43,10 +43,10 @@ Schema definitions are as follows:
 Test Results Summary
 Scenario                          Result
  
-Balance Inquiry             -      PASS
-Transaction History         -      PASS
-Card Blocking               -      PASS
-Escalation to Human Agent   -      PASS
+- Balance Inquiry             -      PASS
+- Transaction History         -      PASS
+- Card Blocking               -      PASS
+- Escalation to Human Agent   -      PASS
 
 
   
